@@ -30,6 +30,7 @@ const tejeswar = {
     currentlyLearning: "Always something new! 📚",
     funFact: "I've migrated monoliths to microfrontends and lived to tell the tale 😄"
 };
+```
 
 
 
