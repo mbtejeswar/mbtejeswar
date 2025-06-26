@@ -19,15 +19,16 @@
 
 ## 🛠️ My Toolkit
 
+```javascript
 const tejeswar = {
-frontend: ["React", "TypeScript", "JavaScript", "Redux", "HTML/CSS"],
-backend: ["Java", "Spring Boot", "Node.js"],
-databases: ["MySQL", "MariaDB"],
-tools: ["AWS", "NGINX", "Google Colab"],
-languages: ["Python", "MATLAB"],
-specialties: ["Micro Frontend", "Data Structures & Algorithms"],
-currentlyLearning: "Always something new! 📚",
-funFact: "I've migrated monoliths to microfrontends and lived to tell the tale 😄"
+    frontend: ["React", "TypeScript", "JavaScript", "Redux", "HTML/CSS"],
+    backend: ["Java", "Spring Boot", "Node.js"],
+    databases: ["MySQL", "MariaDB"],
+    tools: ["AWS", "NGINX", "Google Colab"],
+    languages: ["Python", "MATLAB"],
+    specialties: ["Micro Frontend", "Data Structures & Algorithms"],
+    currentlyLearning: "Always something new! 📚",
+    funFact: "I've migrated monoliths to microfrontends and lived to tell the tale 😄"
 };
 
 
